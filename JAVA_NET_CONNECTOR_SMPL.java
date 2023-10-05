@@ -1,5 +1,6 @@
 package edu.nunezh.java_net_smpl;
 
+// NotNull annotation only required for jetbrains i dont think you may need it in another JAVA IDE for this to compile.
 import org.jetbrains.annotations.NotNull;
 
 import java.io.*;
